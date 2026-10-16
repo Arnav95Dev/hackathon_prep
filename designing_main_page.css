@@ -1,0 +1,43 @@
+.welcome{
+    text-align: center;
+    text-decoration: double;
+}
+body{
+    background-color: aliceblue;
+}
+.stats{
+    display: flex;
+    gap: 9px;
+    flex: 1;
+}
+.total_tasks{
+    border: 2px solid yellow;
+    background-color: rgb(253, 255, 113);
+    border-radius: 10px;
+    text-align: center;
+    margin: 2px;
+    padding : 0px;
+}
+.Completed{
+    border: 2px solid yellow;
+    background-color: rgb(253, 255, 113);
+    border-radius: 10px;
+    text-align: center;
+    margin: 2px;
+    padding : 0px;
+}
+.Pending{
+    border: 2px solid yellow;
+    background-color: rgb(253, 255, 113);
+    border-radius: 10px;
+    text-align: center;
+    margin: 2px;
+    padding : 0px;
+}
+.tasks{
+    border: 2px solid yellow;
+    background-color: rgb(253, 255, 113);
+    border-radius: 10px;
+    margin: 2px;
+    padding : 0px;
+}
